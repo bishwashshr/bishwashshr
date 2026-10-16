@@ -1,3 +1,3 @@
 backend & data engineering | building applications around fintech
 
-.net core · c# · typescript · react · angular · postgresql · sql server · redis · kafka · rabbitmq · aws 
+.spring boot .net core · typescript · react · angular · postgresql · sql server · redis · kafka · rabbitmq · aws 
